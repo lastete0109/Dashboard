@@ -1,0 +1,10 @@
+name: dashboard
+title:
+username:
+account: rimacactuarial
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2601972
+bundleId: 3422425
+url: https://rimacactuarial.shinyapps.io/dashboard/
+when: 1595440139.49664

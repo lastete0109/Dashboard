@@ -1,0 +1,6 @@
+library(rsconnect)
+rsconnect::setAccountInfo(name='rimacactuarial',
+                          token='0E8C3A00AC999D1C34D7EEDB900BA224',
+                          secret='YaVy9ZoehiiWELV/DmelKc+sEpcx6xyy2ValnFtR')
+setwd("C://Users//Leo//Desktop//Dashboard")
+deployApp(account="rimacactuarial")
